@@ -39,6 +39,7 @@ h3 {
 p {
 	font-size: 1.25rem;
 	line-height: 1.625rem;
+	font-family: georgia, serif;
 }
 
 span {
@@ -59,6 +60,10 @@ a {
 
 a:hover {
 	opacity: 0.5;
+}
+
+.copyright {
+	padding: 2rem 1.8rem 2rem 1.8rem;
 }
 
 /* FONTAWESOME ICON */
@@ -89,7 +94,14 @@ a:hover {
 	margin-bottom: 0.8rem;
 }
 
+/* DIVIDER */
+
 .menu-list > li > ul {
 	border-bottom: 1px solid #cccccc;
 	margin-bottom: 2rem;
+	padding-bottom: 1.2rem;
+}
+
+.img-header {
+	margin: -1rem -1.8rem -2.2rem -14.8rem;
 }
