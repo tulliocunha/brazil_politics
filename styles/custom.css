@@ -102,6 +102,8 @@ a:hover {
 	padding: 3rem 1.8rem 0rem 1.8rem;
 }
 
+/* LIST CONTENT */
+
 .menu-list > li > ul > li {
 	font-family: georgia;
 	font-size: 2.25rem;
@@ -121,6 +123,25 @@ a:hover {
 	color: #999999;
 }
 
+/* CONTENT HEADER */
+
+.content-title-header {
+	font-family: georgia;
+	font-weight: bold;
+	margin-bottom: 0.8rem;
+	color: #000;
+}
+
+.content-list-header {
+	margin-top: 2.5rem;
+	font-size: 1.875rem;
+	line-height: 2.125rem;
+}
+
+.content-list-header > li {
+	margin-bottom: 1rem;
+}
+
 /* DIVIDER */
 
 .menu-list > li > ul {
@@ -129,11 +150,11 @@ a:hover {
 	padding-bottom: 2rem;
 }
 
+/* HEADER */
+
 .img-header {
 	margin: -1rem -1.8rem -2.2rem -14.8rem;
 }
-
-/* HEADER */
 
 .logo-header {
 	margin-bottom: 1.8rem;
